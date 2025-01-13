@@ -1,5 +1,3 @@
-# Telco_Churn_Analysis
-
 # Executive Summary: “Telco Customer Churn Analysis”
 
 This analysis provides an in-depth understanding of customer churn behavior at a telecommunications company, focusing on key data-driven insights and visualizations.
